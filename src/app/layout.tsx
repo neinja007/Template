@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'PROJECT NAME',
   description: 'PROJECT DESCRIPTION'
 };
+
 const RootLayout = ({
   children
 }: Readonly<{
