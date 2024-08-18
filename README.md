@@ -4,7 +4,8 @@
 - [ ] Delete [example.ts](/src/hooks/example.ts)
 - [ ] Delete [example.ts](/src/utils/example.ts)
 
-- [ ] Add [favicon.ico](/src/app/favicon.ico)
+- [ ] Modify [favicon.ico](/src/app/favicon.ico)
+- [ ] Create Public Folder in Project Root
 
 - [ ] Configure Metadata in [layout.tsx](/src/app/layout.tsx)
 - [ ] Configure Font in [layout.tsx](/src/app/layout.tsx)
